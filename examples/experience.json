@@ -1,0 +1,15 @@
+{
+  "id": "example-001",
+  "title": "Illustration fictive de fiche",
+  "fictional": true,
+  "problem": "Problème illustratif à remplacer",
+  "context": "Aucune expérience réelle",
+  "hypothesis": null,
+  "protocol": [],
+  "attempts": [],
+  "evidence": [],
+  "limitations": [
+    "Exemple de structure uniquement ; aucune conclusion."
+  ],
+  "review_status": "draft"
+}
